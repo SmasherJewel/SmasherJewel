@@ -41,6 +41,18 @@
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smasherjewel&show_icons=true&locale=en&layout=compact" alt="smasherjewel" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smasherjewel&show_icons=true&locale=en" alt="smasherjewel" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smasherjewel&" alt="smasherjewel" /></p>
+
+<p align="left">
+  <a href="https://github.com/SmasherJewel">
+    <img src="https://github-readme-stats.vercel.app/api?username=SmasherJewel&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_rank=false&card_width=500" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/SmasherJewel">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmasherJewel&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/SmasherJewel">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmasherJewel&layout=compact&theme=dark" alt="Top Languages" />
+  </a>
+</p>
