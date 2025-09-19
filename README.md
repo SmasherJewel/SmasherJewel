@@ -1,3 +1,21 @@
+<h1 align="center">Hi 👋, I'm Jewel Uddin</h1>
+<h3 align="center">Java Fullstack Developer | Cloud Computing Enthusiast</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smasherjewel&label=Profile%20views&color=0e75b6&style=flat" alt="smasherjewel" /> </p>
+
+- 🌱 I’m currently learning **Spring Boot, Microservices, Cloud (AWS, Azure, GCP), Docker & Kubernetes**
+- 💻 Skilled in building **scalable fullstack applications** using **Java | Spring Boot | React | Node.js | REST APIs**
+- ☁️ Passionate about **Cloud Computing & DevOps** for deploying modern web applications
+- 📫 Reach me at **ujewel486@gmail.com**
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/contactjewel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://github.com/SmasherJewel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+<a href="https://instagram.com/ud_jewel_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ud_jewel_03" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <!-- Java Fullstack -->
@@ -10,9 +28,8 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.agilealliance.org/agile101/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/agilealliance/agilealliance-icon.svg" alt="agile" width="40" height="40"/> </a>
-  <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank"> <img src="https://www.vectorlogo.zone/logos/websockets/websockets-icon.svg" alt="websocket" width="40" height="40"/> </a>
+  <span title="Agile" style="font-size: 24px;">⚡</span>
+  <span title="WebSocket" style="font-size: 24px;">🌐</span>
 
   <!-- Cloud & DevOps -->
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
@@ -22,3 +39,8 @@
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smasherjewel&show_icons=true&locale=en&layout=compact" alt="smasherjewel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smasherjewel&show_icons=true&locale=en" alt="smasherjewel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smasherjewel&" alt="smasherjewel" /></p>
